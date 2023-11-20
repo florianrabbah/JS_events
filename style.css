@@ -1,0 +1,9 @@
+/* styles.css */
+
+.card-reduced .card-text {
+  display: none;
+}
+
+.card-reduced .card-img-top {
+  width: 20%;
+}
